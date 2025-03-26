@@ -48,7 +48,7 @@ class ContactClassifierNode(Node):
             "/home/pi/lab_3/collected_data/images/image_20250305_005206.jpg",
             "/home/pi/lab_3/collected_data/images/image_20250305_005207.jpg",
             "/home/pi/lab_3/collected_data/images/image_20250305_005209.jpg",
-            "/home/pi/lab_3/collected_data/images/image_20250305_0052010.jpg",
+            "/home/pi/lab_3/collected_data/images/image_20250305_005210.jpg",
         ]
 
         no_contact_reference_image_paths = [
