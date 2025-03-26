@@ -50,19 +50,19 @@ def image_difference(img1, img2):
 
 # Paths to the reference images
 contact_reference_image_paths = [
-    "/home/pi/lab_3/collected_data/images/image_20250305_005203.jpg",
-    "/home/pi/lab_3/collected_data/images/image_20250305_005206.jpg",
-    "/home/pi/lab_3/collected_data/images/image_20250305_005207.jpg",
-    "/home/pi/lab_3/collected_data/images/image_20250305_005209.jpg",
-    "/home/pi/lab_3/collected_data/images/image_20250305_0052010.jpg",
+    "contact_reference/images/image_20250305_005203.jpg",
+    "contact_reference/images/image_20250305_005206.jpg",
+    "contact_reference/images/image_20250305_005207.jpg",
+    "contact_reference/images/image_20250305_005209.jpg",
+    "contact_reference/images/image_20250305_005210.jpg",
 ]
 
 no_contact_reference_image_paths = [
-    "/home/pi/lab_3/collected_data/images/image_20250304_233311.jpg",
-    "/home/pi/lab_3/collected_data/images/image_20250304_233312.jpg",
-    "/home/pi/lab_3/collected_data/images/image_20250304_233313.jpg",
-    "/home/pi/lab_3/collected_data/images/image_20250304_233314.jpg",
-    "/home/pi/lab_3/collected_data/images/image_20250304_233315.jpg"
+    "contact_reference/images/image_20250304_233311.jpg",
+    "contact_reference/images/image_20250304_233312.jpg",
+    "contact_reference/images/image_20250304_233313.jpg",
+    "contact_reference/images/image_20250304_233314.jpg",
+    "contact_reference/images/image_20250304_233315.jpg"
 ]
 
 # Load contact reference images

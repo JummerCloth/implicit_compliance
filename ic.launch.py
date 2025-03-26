@@ -46,8 +46,8 @@ def generate_launch_description():
     robot_controllers = PathJoinSubstitution(
         [
 #            FindPackageShare("control_board_hardware_interface"),
-            "/home/pi/lab_3",
-            "lab_3.yaml",
+            "/home/pi/implicit_compliance",
+            "ic.yaml",
         ]
     )
     # rviz_config_file = PathJoinSubstitution(
